@@ -1,6 +1,6 @@
 module.exports = {
   siteMetadata: {
-    title: `Gatsby Sandbox`,
+    title: `Gatsby Blogsite`,
     description: `A place for me to learn and play around with all the magic that is Gatsby!`,
     author: `Doug Kellermeyer`,
   },
